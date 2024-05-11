@@ -1,5 +1,10 @@
 # Scientific Field Survey
 
+<div align="center">
+  <img src="https://github.com/R-D-BioTech-Alaska/WorkScript/blob/main/surv.webp" alt="Survey" width="250">
+</div>
+
+
 ## Overview
 The Scientific Field Survey is an interactive tool designed to help new hires or students identify which scientific field aligns best with their interests and skills. This survey includes 30 detailed questions across various disciplines, including Biology, Chemistry, Physics, Data Science, and more.
 
